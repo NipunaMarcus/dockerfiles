@@ -49,6 +49,7 @@
         <module>wso2is-km</module>
         <module>wso2base</module>
         <module>svn</module>
+        <module>wso2ds</module>
     </modules>
 
     <build>
